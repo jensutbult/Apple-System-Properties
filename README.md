@@ -2,6 +2,4 @@
 
 iOS-application showing Apples system fonts and colors.
 
-![Font View screenshot](/fonts-screen.png)
-
-![Colors View screenshot](/colors-screen.png)
+<img src="fonts-screen.jpeg" width="33%"><img src="colors-screen.jpeg" width="33%">
